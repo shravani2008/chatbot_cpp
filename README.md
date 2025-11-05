@@ -53,22 +53,39 @@ It demonstrates the use of multiple header files, file handling, and basic funct
 Your conversations will be saved in chatbothistory.txt.
 
 Example interaction:-
+
 You: hi
+
 Bot: Hello! How can I help you today?
+
 You: tell me a joke
+
 Bot: Why did the computer show up at work late? It had a hard drive!
+
 You: how are you
+
 Bot: I am a bot, I am always good!
+
 You: time
+
 Bot: Current time is: Sat Oct 25 21:18:07 2025
+
 Enter expression (or type 'exit' to go back): 3+5
+
 Result: 8
+
 Enter expression (or type 'exit' to go back): exit
+
 Returning to main menu...
+
 Enter your choice: 2
+
 Enter task: homework
+
 Enter date/time: 20-10-2025 23:10:14
+
 Enter priority (High/Medium/Low): low
+
 Reminder added!
 
 
