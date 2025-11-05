@@ -1,0 +1,119 @@
+You: hii
+Bot: Sorry, I don't understand. Can you ask something else?
+You: hi
+Bot: Hello! How can I help you today?
+You: tell me a joke
+Bot: Why did the computer show up at work late? It had a hard drive!
+You: time
+Bot: Current time is: Wed Oct  8 01:04:22 2025
+
+You: 2
+Bot: Please use the main menu to select this option.
+You: 6
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 
+Bot: Sorry, I don't understand. Can you ask something else?
+You: how are you
+Bot: I am a bot, I am always good! How about you?
+You: i am fine
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 
+Bot: Sorry, I don't understand. Can you ask something else?
+You: hii
+Bot: Sorry, I don't understand. Can you ask something else?
+You: hi
+Bot: Hello! How can I help you today?
+You: tell me a joke
+Bot: Why did the computer show up at work late? It had a hard drive!
+You: how are you
+Bot: I am a bot, I am always good! How about you?
+You: hi
+Bot: Hello! How can I help you today?
+You: tell me a joke
+Bot: Why did the computer show up at work late? It had a hard drive!
+You: how are you
+Bot: I am a bot, I am always good!
+You: time
+Bot: Current time is: Wed Oct  8 01:23:28 2025
+
+You: hi
+Bot: Hello! How can I help you today?
+You: tell me a joke
+Bot: Why did the computer show up at work late? It had a hard drive!
+You: hi
+Bot: Hello! How can I help you today?
+You: how are you
+Bot: I am a bot, I am always good!
+You: tell me a joke
+Bot: Why did the computer show up at work late? It had a hard drive!
+You: time
+Bot: Current time is: Wed Oct  8 16:48:57 2025
+
+You: 1.
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 1
+Bot: Please use the main menu to select this option.
+You: cd "c:\Users\Shree\OneDrive\Desktop\minichatbox\" ; if ($?) { g++ main.cpp -o main } ; if ($?) { .\main }
+Bot: Sorry, I don't understand. Can you ask something else?
+You: shrskf
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 1
+Bot: Please use the main menu to select this option.
+You: 1.
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 1
+Bot: Please use the main menu to select this option.
+You: 
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 6
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 	hii
+Bot: Sorry, I don't understand. Can you ask something else?
+You: hii
+Bot: Sorry, I don't understand. Can you ask something else?
+You: hi
+Bot: Hello! How can I help you today?
+You: how are you
+Bot: I am a bot, I am always good!
+You: tell me a joke
+Bot: Why did the computer show up at work late? It had a hard drive!
+You: bye
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 6
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 6.
+Bot: Sorry, I don't understand. Can you ask something else?
+You: time
+Bot: Current time is: Wed Oct 22 19:42:12 2025
+
+You: hi
+Bot: Hello! How can I help you today?
+You: 6
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 6.
+Bot: Sorry, I don't understand. Can you ask something else?
+You: 2
+Bot: Please use the main menu to select this option.
+You: hi
+Bot: Hello! How can I help you today?
+You: tell me a joke
+Bot: Why did the computer show up at work late? It had a hard drive!
+You: how are you
+Bot: I am a bot, I am always good!
+You: time
+Bot: Current time is: Sat Oct 25 21:18:07 2025
+
+You: dhrtytfg
+Bot: Sorry, I don't understand. Can you ask something else?
